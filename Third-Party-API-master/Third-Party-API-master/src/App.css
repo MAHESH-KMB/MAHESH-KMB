@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+img{
+    width: 175px;
+    height: 120px;
+}
+
+table td , table th{
+  text-align: center;
+  vertical-align: middle;
+}
+
+table td{
+    font-weight: 500;
+}
